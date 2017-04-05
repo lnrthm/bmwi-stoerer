@@ -1,5 +1,5 @@
-Referentenentwurf
-des Bundesministeriums für Wirtschaft und Energie
+Referentenentwurf des Bundesministeriums für Wirtschaft und Energie
+
 Entwurf eines Dritten Gesetzes zur Änderung des Telemediengesetzes (neues WLAN-Gesetz – 3. TMGÄndG)
 
 A. Problem und Ziel
